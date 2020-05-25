@@ -1,5 +1,5 @@
 {
-    "name": "io.axelib.flow",
+    "name": "@jeelig/io.axelib.flow",
     "displayName": "flow",
     "version": "1.0.0",
     "description": "A sample Apache Cordova application that responds to the deviceready event.",
@@ -11,5 +11,9 @@
         "ecosystem:cordova"
     ],
     "author": "Apache Cordova Team",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+	"publishConfig": { "registry": "https://npm.pkg.github.com/" },
+	"repostitory": {
+		"url": "git://github.com/Jeelig/flow.git"
+	}
 }
