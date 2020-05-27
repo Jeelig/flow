@@ -1,5 +1,8 @@
 {
   "name": "flow",
-  "integrations": {},
-  "type": "custom"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom",
+  "id": "com.axelib.muq"
 }
